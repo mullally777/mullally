@@ -1,2 +1,2 @@
-Something is written here in the feature branch
+Something is written right here
 The second string
