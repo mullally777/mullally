@@ -1,4 +1,6 @@
 Something is written right here.
 The second string
 Third string from feature branch
+some strings in somewhere.
+kek
 And one new string in old file.
