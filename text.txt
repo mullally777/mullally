@@ -4,3 +4,5 @@ Third string from feature branch
 some strings in somewhere.
 kek
 And one new string in old file.
+For staged/unstaged checking
+And one more string
