@@ -1,4 +1,4 @@
-Something is written right here.
+1.2. Something is written right here.
 The second string
 Third string from feature branch
 some strings in somewhere.
